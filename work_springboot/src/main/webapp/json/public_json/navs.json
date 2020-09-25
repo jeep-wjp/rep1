@@ -1,0 +1,124 @@
+[
+	{
+		"title": "项目信息管理",
+		"icon": "&#xe630;",
+		"href": "",
+		"spread": false,
+		"children": [
+			{
+				"title": "项目信息",
+				"icon": "&#xe61c;",
+				"href": "page/project/project_info.jsp",
+				"spread": false
+			}
+		]
+	},{
+		"title": "员工信息管理",
+		"icon": "&#xe630;",
+		"href": "",
+		"spread": false,
+		"children": [
+
+			{
+				"title": "员工信息",
+				"icon": "&#xe61c;",
+				"href": "page/user/sys_user.jsp",
+				"spread": false
+			},{
+				"title": "添加员工",
+				"icon": "&#xe609;",
+				"href": "page/user/sys_user_add.jsp",
+				"spread": false
+			}
+
+		]
+	},
+	{
+		"title": "部门信息管理",
+		"icon": "&#xe630;",
+		"href": "",
+		"spread": false,
+		"children": [
+			{
+				"title": "部门信息",
+				"icon": "&#xe609;",
+				"href": "page/dept/sys_dept.jsp",
+				"spread": false
+			},
+			{
+				"title": "添加部门",
+				"icon": "&#xe61c;",
+				"href": "page/dept/sys_dept_add.jsp",
+				"spread": false
+			}
+
+		]
+	},
+	{
+		"title": "工时信息",
+		"icon": "&#xe630;",
+		"href": "",
+		"spread": false,
+		"children": [
+			{
+				"title": "工时信息",
+				"icon": "&#xe609;",
+				"href": "page/time/project_work_hour.jsp",
+				"spread": false
+			},{
+				"title": "添加工时",
+				"icon": "&#xe61c;",
+				"href": "page/time/project_work_hour_add.jsp",
+				"spread": false
+			}
+		]
+	},
+	{
+		"title": "日志信息",
+		"icon": "&#xe630;",
+		"href": "",
+		"spread": false,
+		"children": [
+			{
+				"title": "日志信息",
+				"icon": "&#xe609;",
+				"href": "page/log/project_update_log.jsp",
+				"spread": false
+			},
+			{
+				"title": "添加日志",
+				"icon": "&#xe61c;",
+				"href": "page/log/project_update_log_add.jsp",
+				"spread": false
+			}
+		]
+	},
+	{
+		"title": "权限管理",
+		"icon": "&#xe630;",
+		"href": "",
+		"spread": false,
+		"children": [
+			{
+				"title": "角色管理",
+				"icon": "&#xe609;",
+				"href": "page/limit/sys_role.jsp",
+				"spread": false
+			},
+			{
+				"title": "添加角色",
+				"icon": "&#xe61c;",
+				"href": "page/limit/sys_role_add.jsp",
+				"spread": false
+			},
+			{
+				"title": "菜单管理",
+				"icon": "&#xe609;",
+				"href": "page/limit/sys_menu.jsp",
+				"spread": false
+			}
+
+
+		]
+	}
+]

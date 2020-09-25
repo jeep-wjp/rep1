@@ -1,0 +1,18 @@
+#rec{
+	text-align: center;
+	font-size: 30px;
+	font-family: "黑体";
+	font-weight: bold;
+	letter-spacing: 10px;
+	margin-top: 30px;
+	text-shadow: 5px 5px 5px #FF0000;
+}
+#mess{
+	padding: 8px 15px;
+	border: 1px solid darkgray;
+	width: 700px;font-size: 12px;
+	line-height: 20px;
+	letter-spacing: 1px;
+	margin-top: 80px;
+	margin-left: 50px;
+}

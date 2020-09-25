@@ -1,0 +1,44 @@
+{
+	"code":0,
+	"msg":"",
+	"count":2,
+	"data":[
+		{
+			"id":1,
+			"sr_name":"小虎",
+			"sr_sign":156.23,
+			"sr_remark":156.23,
+			"sr_create_uid":156.23,
+			"sr_create_dt":156.23,
+			"sr_update_dt":156.23,
+			"sr_update_uid":156.23,
+			"sr_issuperadmin":156.23,
+			"sr_issysadmin":156.23
+
+		},{
+			"id":2,
+			"sr_name":"小虎",
+			"sr_sign":156.23,
+			"sr_remark":156.23,
+			"sr_create_uid":156.23,
+			"sr_create_dt":156.23,
+			"sr_update_dt":156.23,
+			"sr_update_uid":156.23,
+			"sr_issuperadmin":156.23,
+			"sr_issysadmin":156.23
+
+		},{
+			"id":3,
+			"sr_name":"小虎",
+			"sr_sign":156.23,
+			"sr_remark":156.23,
+			"sr_create_uid":156.23,
+			"sr_create_dt":156.23,
+			"sr_update_dt":156.23,
+			"sr_update_uid":156.23,
+			"sr_issuperadmin":156.23,
+			"sr_issysadmin":156.23
+
+		}
+	]
+}

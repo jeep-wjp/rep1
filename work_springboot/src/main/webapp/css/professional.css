@@ -1,0 +1,44 @@
+.job{
+	text-align: center;
+	font-size: 30px;
+	font-family: "黑体";
+	font-weight: bold;
+	letter-spacing: 10px;
+	margin-top: 30px;
+	text-shadow: 5px 5px 5px #FF0000;
+}
+#text{
+	margin-top: 80px;
+	margin-left: 50px;
+	line-height: 25px;
+	margin-bottom: 50px;
+	border:15px solid transparent;
+	width: 450px;
+	padding:10px 20px;
+	border-image:url(../images/border.png) 30 30 round;
+}
+#text>h3{
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+#text>p{
+	text-indent: 40px;
+	
+}
+#apply{
+	display: none;
+	padding: 20px;
+}
+#applyTable{
+	width: 600px;
+	text-align: center;
+}
+.layui-input{
+	width: 200px;
+}
+#dataFrm{
+	margin-left:80px ;
+}
+.layui-form-item{
+	margin-top:15px ;
+}
